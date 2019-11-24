@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="QTetris" targetName="QTetris" />
       <config projectName="QTetris" targetName="QTetris_autogen" />
+      <config projectName="QTetris" targetName="QTetris" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -12,7 +12,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b176735-6760-42ec-a2a1-e94593c672ea" name="Default Changelist" comment="" />
+    <list default="true" id="7b176735-6760-42ec-a2a1-e94593c672ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/Failure.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/Failure.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/Test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/Test.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/TestHarness.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/TestRegistry.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/TestRegistry.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/TestResult.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/TestResult.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppunitlite_old/XxxTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/KeyPress.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/KeyPress.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/TetrisRect.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/TetrisRect.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Tetromino.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Tetromino.h" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +41,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1U2c9JCtXd56KkE6CP2eB7fAqIY" />
@@ -32,6 +49,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -157,10 +175,22 @@
       <workItem from="1554856697394" duration="205000" />
       <workItem from="1555463475519" duration="65000" />
       <workItem from="1574557980060" duration="340000" />
+      <workItem from="1574558552028" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
