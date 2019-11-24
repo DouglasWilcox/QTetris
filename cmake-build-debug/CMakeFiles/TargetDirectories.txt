@@ -1,0 +1,4 @@
+/Users/dooglife/Documents/GitHub/QTetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dooglife/Documents/GitHub/QTetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dooglife/Documents/GitHub/QTetris/cmake-build-debug/CMakeFiles/QTetris.dir
+/Users/dooglife/Documents/GitHub/QTetris/cmake-build-debug/CMakeFiles/QTetris_autogen.dir

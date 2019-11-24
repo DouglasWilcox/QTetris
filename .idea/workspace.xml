@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="QTetris" targetName="QTetris" />
+      <config projectName="QTetris" targetName="QTetris_autogen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b176735-6760-42ec-a2a1-e94593c672ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1U2c9JCtXd56KkE6CP2eB7fAqIY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cppunitlite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/old" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QTetris" RUN_TARGET_NAME="QTetris" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QTetris" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QTetris" TARGET_NAME="QTetris" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="QTetris" RUN_TARGET_NAME="QTetris">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QTetris_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QTetris" TARGET_NAME="QTetris_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.QTetris" />
+      <item itemvalue="CMake Application.QTetris_autogen" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b176735-6760-42ec-a2a1-e94593c672ea" name="Default Changelist" comment="" />
+      <created>1552355656491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552355656491</updated>
+      <workItem from="1552355657928" duration="2650000" />
+      <workItem from="1552359255900" duration="1486000" />
+      <workItem from="1552360941041" duration="78000" />
+      <workItem from="1552530906087" duration="12000" />
+      <workItem from="1553478251706" duration="6054000" />
+      <workItem from="1553564004725" duration="4703000" />
+      <workItem from="1553656478026" duration="2684000" />
+      <workItem from="1553734933003" duration="8097000" />
+      <workItem from="1553745143027" duration="3100000" />
+      <workItem from="1553748448061" duration="217000" />
+      <workItem from="1553749308544" duration="1945000" />
+      <workItem from="1553751463524" duration="2084000" />
+      <workItem from="1553753821065" duration="104000" />
+      <workItem from="1553784131114" duration="4081000" />
+      <workItem from="1553826866221" duration="1087000" />
+      <workItem from="1553828055366" duration="1981000" />
+      <workItem from="1553830427143" duration="2629000" />
+      <workItem from="1553835123454" duration="2210000" />
+      <workItem from="1553837846680" duration="683000" />
+      <workItem from="1553960035589" duration="44000" />
+      <workItem from="1553972280599" duration="775000" />
+      <workItem from="1553979377129" duration="5945000" />
+      <workItem from="1553985497288" duration="557000" />
+      <workItem from="1553986388236" duration="1181000" />
+      <workItem from="1553987586890" duration="1751000" />
+      <workItem from="1553990348943" duration="1154000" />
+      <workItem from="1554000851353" duration="1133000" />
+      <workItem from="1554007084224" duration="4857000" />
+      <workItem from="1554044885409" duration="782000" />
+      <workItem from="1554047606295" duration="1832000" />
+      <workItem from="1554049481514" duration="825000" />
+      <workItem from="1554051791509" duration="436000" />
+      <workItem from="1554052242723" duration="44000" />
+      <workItem from="1554073054602" duration="464000" />
+      <workItem from="1554073578143" duration="928000" />
+      <workItem from="1554076682583" duration="2371000" />
+      <workItem from="1554079438300" duration="2986000" />
+      <workItem from="1554083883533" duration="525000" />
+      <workItem from="1554084531897" duration="1423000" />
+      <workItem from="1554086007004" duration="1605000" />
+      <workItem from="1554166401212" duration="688000" />
+      <workItem from="1554167166271" duration="9175000" />
+      <workItem from="1554177678241" duration="2506000" />
+      <workItem from="1554189456242" duration="1364000" />
+      <workItem from="1554232643811" duration="7390000" />
+      <workItem from="1554265896404" duration="3289000" />
+      <workItem from="1554321344196" duration="77000" />
+      <workItem from="1554321676551" duration="503000" />
+      <workItem from="1554339043908" duration="1000" />
+      <workItem from="1554339530582" duration="3939000" />
+      <workItem from="1554349586414" duration="853000" />
+      <workItem from="1554387723414" duration="44000" />
+      <workItem from="1554387915943" duration="1170000" />
+      <workItem from="1554417004260" duration="5453000" />
+      <workItem from="1554433112257" duration="78000" />
+      <workItem from="1554473613220" duration="2573000" />
+      <workItem from="1554476475385" duration="2000" />
+      <workItem from="1554476517464" duration="271000" />
+      <workItem from="1554476813503" duration="62000" />
+      <workItem from="1554483069547" duration="256000" />
+      <workItem from="1554516044657" duration="119000" />
+      <workItem from="1554530811338" duration="1118000" />
+      <workItem from="1554579026102" duration="821000" />
+      <workItem from="1554782044388" duration="1670000" />
+      <workItem from="1554821836830" duration="25000" />
+      <workItem from="1554856697394" duration="205000" />
+      <workItem from="1555463475519" duration="65000" />
+      <workItem from="1574557980060" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

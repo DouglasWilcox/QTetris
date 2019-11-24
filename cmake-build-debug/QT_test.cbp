@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="QT_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\Qt\;CMake Files\..\..\..\..\..\Qt\5.12.1\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Quick\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\;CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Network\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT_test">
+				<Option output="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/QT_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/QT_test_autogen/include"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQuick.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQuick.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQml.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQml.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtNetwork.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtNetwork.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 QT_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT_test/fast">
+				<Option output="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/QT_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/QT_test_autogen/include"/>
+					<Add directory="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQuick.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQuick.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQml.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtQml.framework/Headers"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtNetwork.framework"/>
+					<Add directory="/Users/dooglife/Qt/5.12.1/clang_64/lib/QtNetwork.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 QT_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT_test_autogen">
+				<Option working_dir="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 QT_test_autogen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/Bullet.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/Bullet.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/PField.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/PField.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/Tetris.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/Tetris.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/TetrisPiece.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/TetrisPiece.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/TetrisScore.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/TetrisScore.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/TetrisScoreTest.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cmake-build-debug/QT_test_autogen/mocs_compilation.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/Failure.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/Failure.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/Test.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/Test.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/TestRegistry.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/TestRegistry.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/TestResult.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/cppunitlite/TestResult.h">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/main.cpp">
+			<Option target="QT_test"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/Users/dooglife/Documents/GitHub/UW_CPP01_CLion/FinalProject/QT_test/../../../../../Qt/5.12.1/clang_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\Qt\5.12.1\clang_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
